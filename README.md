@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-using-grid-tmTvMBDTl0](https://www.frontendmentor.io/solutions/responsive-3-column-preview-card-using-grid-tmTvMBDTl0)
+- Live Site URL: [https://kennylun123.github.io/fm-3-column-preview-card-component/](https://kennylun123.github.io/fm-3-column-preview-card-component/)
 
 ## My process
 
